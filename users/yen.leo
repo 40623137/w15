@@ -66,7 +66,7 @@
 <v t="leo.20171107230335.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170911090822.1"><vh>第4-第6週</vh>
+<v t="leo.20170911090822.1" a="E"><vh>第4-第6週</vh>
 <v t="leo.20171108011810.1" a="E"><vh>4-6</vh>
 <v t="leo.20171108011850.1"><vh>內容</vh></v>
 </v>
@@ -77,13 +77,40 @@
 <v t="leo.20171108005521.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170911091459.1" a="E"><vh>第7-第9週</vh>
+<v t="leo.20170911091459.1"><vh>第7-第9週</vh>
 <v t="leo.20170911091508.1" a="E"><vh>7-9</vh>
 <v t="leo.20170911091508.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170911093601.1" a="E"><vh>W1 練習</vh>
-<v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
+<v t="leo.20180109211726.1" a="E"><vh>第10-12週</vh>
+<v t="leo.20180109213506.1" a="E"><vh>1</vh>
+<v t="leo.20180110210113.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180109213559.1" a="E"><vh>2</vh>
+<v t="leo.20180110215725.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180110211716.1" a="E"><vh>第13-15週</vh>
+<v t="leo.20180110211749.1" a="E"><vh>1</vh>
+<v t="leo.20180110211800.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110215550.1" a="E"><vh>2</vh>
+<v t="leo.20180110215625.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180110214858.1" a="E"><vh>第16-17週</vh>
+<v t="leo.20180110214936.1" a="E"><vh>1</vh>
+<v t="leo.20180110215012.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110222339.1"><vh>2</vh>
+<v t="leo.20180110222457.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180110222340.1"><vh>3</vh>
+<v t="leo.20180110222413.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170911093601.1"><vh>W1 練習</vh>
+<v t="leo.20170911093601.2"><vh>隨身系統練習</vh>
 <v t="leo.20170911093601.3"><vh>Python 3.6 程式環境</vh></v>
 </v>
 <v t="leo.20170911093601.4" a="E"><vh>練習 Fossil SCM</vh>
@@ -110,10 +137,10 @@
 <v t="leo.20170911095149.5"><vh>如何分組</vh></v>
 </v>
 </v>
-<v t="leo.20170911090052.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20170911090052.1"><vh>快捷鍵</vh>
 <v t="leo.20170911090052.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170108171733.64" a="E"><vh>各式內容引用範例</vh>
+<v t="yen.20170108171733.64"><vh>各式內容引用範例</vh>
 <v t="yen.20170108171733.65" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170108171733.66"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -467,6 +494,103 @@ g.es("admin pelican Github 執行完畢")
      * eric6製作計算機
      * 創立個人頻道
      * 期中投影片</t>
+<t tx="leo.20180109211726.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20180109213506.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180109213559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110210113.1"># 第10-第12週
+
+* 新增github帳戶
+* 新增gh-pages分支
+* 設定git config --global user.name 跟 user.email
+* 創立協同倉儲,與同學一起完成期末計算機作業
+* 如何用github上推檔案與下載檔案
+</t>
+<t tx="leo.20180110211716.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180110211749.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110211800.1"># 第13-第15週
+
+* 與同學共同完成計算機程式
+* 做出個人簡報與小組簡報
+* 整合fossil與github</t>
+<t tx="leo.20180110214858.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20180110214936.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110215012.1">#第16-17週
+
+* 小組合力協同做出計算機
+* 上傳期末驗收跟個人簡報
+* 上傳分組期末報告
+* 錄製影片上傳youtube</t>
+<t tx="leo.20180110215550.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110215625.1">## 編輯圖檔
+
+* 使用 Dia 與 Gimp 來編輯圖檔
+* Dia用來編輯圖檔
+* Gimp用來擷取圖檔</t>
+<t tx="leo.20180110215725.1">#隨身系統git常用指令
+
+* git pull - 把最新版本更新下來
+* git add . -  確認所有資料
+* git commit -m '' - 推送資料到遠端
+* git push - 推送檔案</t>
+<t tx="leo.20180110222339.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110222340.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180110222413.1">#自評成績
+
+75</t>
+<t tx="leo.20180110222457.1">#心得
+
+雖然不太會做但是有組長一步一步的帶領我才能跟上現在的進度，晚上也有去找TA學習，一開始做不出來不代表不行，只要一步一腳印努力就能跟上，最後做出計算機真的內心充滿成就感，這真的讓我學到很多。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
