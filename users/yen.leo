@@ -105,8 +105,11 @@
 <v t="leo.20180110222339.1"><vh>2</vh>
 <v t="leo.20180110222457.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20180110222340.1" a="E"><vh>3</vh>
+<v t="leo.20180110222340.1"><vh>3</vh>
 <v t="leo.20180110222413.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20180111001332.1" a="E"><vh>4</vh>
+<v t="leo.20180111001405.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911093601.1"><vh>W1 練習</vh>
@@ -591,6 +594,17 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180110222457.1">#心得
 
 雖然不太會做但是有組長一步一步的帶領我才能跟上現在的進度，晚上也有去找TA學習，一開始做不出來不代表不行，只要一步一腳印努力就能跟上，最後做出計算機真的內心充滿成就感，這真的讓我學到很多。</t>
+<t tx="leo.20180111001332.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180111001405.1">#筆記
+
+&lt;a href="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921697.jpg?raw=true&gt;&lt;img src="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921697.jpg?raw=true" width="150" height="225"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921698.jpg?raw=true"&gt;&lt;img src="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921698.jpg?raw=true" width="150" height="225"&gt;&lt;/a&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
