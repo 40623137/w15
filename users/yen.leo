@@ -602,7 +602,8 @@ g.es("admin pelican Github 執行完畢")
 </t>
 <t tx="leo.20180111001405.1">#筆記
 
-&lt;a href="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921697.jpg?raw=true&gt;&lt;img src="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921697.jpg?raw=true" width="150" height="225"&gt;&lt;/a&gt;
+&lt;a href="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921697.jpg?raw=true"&gt;&lt;img src="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921697.jpg?raw=true" width="150" height="225"&gt;&lt;/a&gt;
+
 &lt;a href="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921698.jpg?raw=true"&gt;&lt;img src="https://github.com/40623137/w15/blob/gh-pages/data/note/S__7921698.jpg?raw=true" width="150" height="225"&gt;&lt;/a&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
